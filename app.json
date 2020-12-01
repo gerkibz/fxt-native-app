@@ -1,0 +1,12 @@
+{
+  "name": "fxt-app",
+  "displayName": "fxt-app",
+  "expo": {
+    "name": "fxt-app",
+    "slug": "fxt-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
